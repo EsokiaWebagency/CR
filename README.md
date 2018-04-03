@@ -1,10 +1,10 @@
 # Instalation
-Lancer la commande : composer install
+Lancer la commande : <code>composer install</code>
 # Dependence
 - Intaller rabbitmq
 - Configurer et Lancer le serveur rabbitmq
 # Apres l'installation
-- Lancer la commande : php rabbitmq/receiver.php
+- Lancer la commande : <code>php rabbitmq/receiver.php</code>
 # Dossier public
 /public/
 # Config
@@ -25,4 +25,4 @@ Lancer la commande : composer install
 </code>
 - Rendez vous a l'ulr : http://test-esokia.loc/
 
-Thanks!
+######Thanks!
